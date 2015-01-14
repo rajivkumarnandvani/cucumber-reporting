@@ -67,7 +67,7 @@ And you can drill down into tag specific reports:
 ![Tag report]
 (https://github.com/masterthought/cucumber-reporting/raw/master/.README/tag-report.png)
 
-##  Develop
+## Develop
 
 Interested in contributing to the cucumber-reporting?  Great!  Start [here]
 (https://github.com/masterthought/cucumber-reporting).
