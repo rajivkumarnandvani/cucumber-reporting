@@ -19,7 +19,7 @@ This project allows you to publish the results of a cucumber run as pretty html 
 Read this if you need further  [detailed install and configuration]
 (https://github.com/masterthought/jenkins-cucumber-jvm-reports-plugin-java/wiki/Detailed-Configuration) instructions for using the Jenkins version of this project
 
-## Release Notes
+##  Release Notes
 
 Release notes are [here](https://github.com/masterthought/cucumber-reporting/wiki/Release-Notes)
 
