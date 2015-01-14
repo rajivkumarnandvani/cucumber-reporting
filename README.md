@@ -4,7 +4,7 @@ This is a Java report publisher primarily created to publish cucumber reports on
 
 [![Build Status](https://secure.travis-ci.org/masterthought/cucumber-reporting.png)](http://travis-ci.org/masterthought/cucumber-reporting)
 
-##    Background
+##  Background
 
 Cucumber is a test automation tool following the principles of Behavioural Driven Design and living documentation. Specifications are written in a concise human readable form and executed in continuous integration.
 
